@@ -9,7 +9,7 @@ Kõik sisendid peab sisestama kasutaja ning programm siis nende põhjal arvutab 
 
 **Käivitamine**
 1. Ava Visual Studio
-2. Veenduge, et teil oleks .NET 10 versioon.
+2. Veendu, et teil oleks .NET 10 versioon.
 3. Veendu, et Elektrikulu.WPFappil oleks viide Librarisse ning, oleks startup project.
 4. Käivita WPF app
 5. sisesta andmed ning vajuta "Arvuta"
