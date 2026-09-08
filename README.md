@@ -36,7 +36,7 @@ Kulu 30 päeva jooksul: 18.00 €
 
 Vigane sisend:
 
-Võimsus: -500
+Kulu: -500
 Tunnidpäevas: 5
 Hind: 0.20
 
