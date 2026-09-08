@@ -26,7 +26,7 @@ Kõik sisendid peab sisestama kasutaja ning programm siis nende põhjal arvutab 
 
 tavapärane sisend:
 
-Võimsus: 1500W
+Kulu: 1500W
 Tunnid Päevas: 2
 Hind: 0.20
 
@@ -37,7 +37,7 @@ Kulu 30 päeva jooksul: 18.00 €
 
 Vigane sisend:
 
-Kulu: -500
+Kulu: -500W
 Tunnidpäevas: 5
 Hind: 0.20
 
