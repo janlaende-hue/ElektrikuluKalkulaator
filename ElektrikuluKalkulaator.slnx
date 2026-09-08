@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Elektrikulu.WPFapp/Elektrikulu.WPFapp.csproj" />
+  <Project Path="ElektrikuluKalkulaator/ElektrikuluKalkulaator.csproj" />
+</Solution>

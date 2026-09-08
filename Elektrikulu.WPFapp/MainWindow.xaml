@@ -1,0 +1,24 @@
+﻿<Window x:Class="Elektrikulu.WPFapp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Elektrikulu.WPFapp"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <StackPanel Margin="10,81,10,0" VerticalAlignment="Top">
+            <TextBlock Text="Kulu (W):" />
+            <TextBox x:Name="PowerInput" Width="200" />
+            <TextBlock Text="Töötunnid päevas:" Width="803" RenderTransformOrigin="0.504,0.617" />
+            <TextBox x:Name="HoursInput" Width="200" />
+            <TextBlock Text="Hind (€/kWh):" />
+            <TextBox Name="PriceInput" Width="200" Margin="0,4,0,12" />
+
+            <Button Name="CalculateButton" Width="120" Click="CalculateButton_Click">Arvuta</Button>
+
+            <TextBlock Name="ResultText" Margin="0,12,0,0" FontWeight="Bold" />
+        </StackPanel>
+
+    </Grid>
+</Window>
