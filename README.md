@@ -2,7 +2,7 @@
 
 **Lühikirjeldus**
 
-See on lihtne väike projekt, mille abil saab arvutada elektriseadme elektrikulu 30päeva jooksul ning palju see maksma läheb.
+See on lihtne väike projekt, mille abil saab arvutada elektriseadme elektrikulu 30 päeva jooksul ning palju see maksma läheb.
 Arvutused ja Errorite kontrollid on kõik Library failis.
 
 Kõik sisendid peab sisestama kasutaja ning programm siis nende põhjal arvutab kulu ning hinna.
